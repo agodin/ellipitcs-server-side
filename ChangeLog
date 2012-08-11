@@ -1,0 +1,23 @@
+commit d2a8ae4639b920771a8a553821307ce5e766f1c9
+Author: agodin <agodin@yandex-team.ru>
+Date:   Sun Aug 12 02:10:02 2012 +0400
+
+    save ell_data_regexp.py
+
+commit 600f36d4d66ea8818c036d28088784babd04a343
+Author: agodin <agodin@yandex-team.ru>
+Date:   Sun Aug 12 02:09:19 2012 +0400
+
+    Add description for ell_data_regexp.py
+
+commit d8aa611f970051f715b878f7e6abe03f4255ac2a
+Author: Andrey Godin <airesp@yandex.ru>
+Date:   Sun Aug 12 01:49:52 2012 +0400
+
+    Update README.md
+
+commit 9cf0053799225c5d57076734e8b4294e7d0805e9
+Author: Andrey Godin <airesp@yandex.ru>
+Date:   Sat Aug 11 14:47:01 2012 -0700
+
+    Initial commit
